@@ -2,6 +2,15 @@
    $name = "Pedro Barroso";
    echo "Hello ".$name;
 ?>
+<?php
+
+// Read the JSON file
+$json_file = file_get_contents('my_data.json');
+
+// Decode the JSON file
+$json_data = json_decode($json_file,true);
+
+?>
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
