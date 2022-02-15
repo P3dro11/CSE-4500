@@ -84,7 +84,7 @@ $json_data = json_decode($json_file,true);
       </div>
      <div id="Interests" class="content-item">
         <div class="vertical-center">
-          <h2>Interest</h2>
+          <h2>Interests</h2>
           <p>...</p>
         </div>
       </div>
