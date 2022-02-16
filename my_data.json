@@ -1,21 +1,22 @@
 {
-  "first-name": "Pedro",
-  "last-name": "Barroso",
+  "first-name": "Firstname",
+  "last-name": "Lastname",
   "address": "5500 University Pkwy, San Bernardino, CA 92407",
-  "phone": "(909)537-5000",
-  "email": "005849424@coyote.edu",
-  "introduction": "My name is Pedro, and this is my last semester in CSUSB. When I have free time, I like to play golf,soccer, and bowling. My goal for this year is to get prepared for job interviews.I understand that getting a job in the same place where I lived can be difficult but it's something I'm up for.",
-  "experience":[ "C++", "HTML", "Python" , "Verilog" ], 
+  "phone": "(123)456-7890",
+  "email": "name@mail.com",
+  "introduction": "A introduction of youself ...",
+  "experience":[
     {
-      "title":"Hackthon",
+      "title":"WEB DEVELOPER",
       "employer":"CSUSB",
       "period":"March 2018 - Present",
       "description":"A description of your experience with this job."
-    }
+    },
     {
       "title":"APPLICATION DEVELOPER",
       "employer":"CSUSB",
       "period":"March 2018 - 2021",
       "description":"A description of your experience with this job."
     }
+  ]
 }
