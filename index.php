@@ -28,7 +28,7 @@ $json_data = json_decode($json_file,true);
     <div class="left-nav">
       <nav id="navbar-example3" class="navbar vertical-center flex-column center">
         <nav class="nav flex-column">
-          <img src="avatar.png" style="width:160px" alt="">
+          <img src="file:///C:/Users/Pedro/Downloads/IMG-0009.jpg" style="width:160px" alt="">
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
