@@ -44,13 +44,10 @@ $json_data = json_decode($json_file,true);
       </div>
         <hr>
       <div id="education" class="content-item">
-        <div class="vertical-center">
-          <div class="subheading mb-3">
-            <?php echo $json_data['address']; ?> · <?php echo $json_data['phone']; ?> ·
-            <a href="<?php echo $json_data['email']; ?>"><?php echo $json_data['email']; ?></a>
-          </div>
-          <p><?php echo $json_data['introduction']; ?></p>
-          </div>
+           <div class="vertical-center">
+          <h2>Education</h2>
+           <p>This is my fifth year at CSUSB.</p>
+        </div>
       </div>
       <hr>
       <div id="experience" class="content-item">
