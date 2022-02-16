@@ -1,7 +1,4 @@
-<?
-   $name = "Pedro Barroso";
-   echo "Hello ".$name;
-?>
+
 <?php
 
 // Read the JSON file
