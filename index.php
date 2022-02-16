@@ -42,6 +42,14 @@ $json_data = json_decode($json_file,true);
           <p><?php echo $json_data['introduction']; ?></p>
         </div>
       </div>
+        <hr>
+      <div id="education" class="content-item">
+        <div class="vertical-center">
+          <div class="subheading mb-3">
+            <?php echo $json_data['address']; ?> · <?php echo $json_data['phone']; ?> ·
+            <a href="<?php echo $json_data['email']; ?>"><?php echo $json_data['email']; ?></a>
+          </div>
+          <p><?php echo $json_data['introduction']; ?></p>
     
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
