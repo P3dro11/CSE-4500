@@ -28,7 +28,7 @@ $json_data = json_decode($json_file,true);
     <div class="left-nav">
       <nav id="navbar-example3" class="navbar vertical-center flex-column center">
         <nav class="nav flex-column">
-          <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.csusbathletics.com%2Fnews%2F2017%2F2%2F8%2Fgeneral-class-of-2017-hall-of-fame-announced.aspx&psig=AOvVaw2HNPpjt4joq8VxhhS5BjSn&ust=1645075285443000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjRypa9g_YCFQAAAAAdAAAAABAD" style="width:160px" alt="">
+          <img src="" style="width:160px" alt="">
           <a class="nav-link" href="#about">About</a>
           <a class="nav-link" href="#education">Education</a>
           <a class="nav-link" href="#experience">Experience</a>
