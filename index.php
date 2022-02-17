@@ -18,6 +18,7 @@ $json_data = json_decode($json_file,true);
     <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,800;1,400;1,800&family=Saira+Condensed:wght@500;700&family=Saira+Extra+Condensed:wght@500;600;700&display=swap" rel="stylesheet">
     <link href="https://youli.academic.csusb.edu/css/style.css" rel="stylesheet"></link>
   </head>
+<!-- Contents --> 
   <body data-bs-spy="scroll" data-bs-target="#navbar-example3" style="position:relative" >
     <div class="left-nav">
       <nav id="navbar-example3" class="navbar vertical-center flex-column center">
@@ -31,6 +32,7 @@ $json_data = json_decode($json_file,true);
         </nav>
       </nav>
     </div>
+    <!-- about section --> 
      <div data-bs-offset="0" tabindex="0">
       <div id="about" class="content-item">
         <div class="vertical-center">
@@ -43,12 +45,14 @@ $json_data = json_decode($json_file,true);
         </div>
       </div>
         <hr>
+       <!-- Education section --> 
       <div id="education" class="content-item">
            <div class="vertical-center">
           <h2>Education</h2>
            <p>This is my fifth year at CSUSB.</p>
         </div>
       </div>
+       <!-- Experience Section --> 
       <hr>
       <div id="experience" class="content-item">
         <div class="vertical-center">
@@ -70,6 +74,7 @@ $json_data = json_decode($json_file,true);
       <hr>
         </div>
       </div>
+<!-- Skills Section--> 
       <hr>
       <div id="Skills" class="content-item">
         <div class="vertical-center">
@@ -77,6 +82,7 @@ $json_data = json_decode($json_file,true);
            <p>Programming languages: C++, python, HTML,</p>
         </div>
       </div>
+<!-- Interests Section -->
       <div id="Interests" class="content-item">
         <div class="vertical-center">
           <h2>Interests</h2>
